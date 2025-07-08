@@ -42,4 +42,7 @@ A sample `sales` table was created with fields like:
 This project helped me gain deeper understanding of SQL used in real-world data analysis, especially for working with grouped and sequential data.
 
 
-✅ **Thank you for checking out my project!**
+## 📌 Author
+
+Developed by [Syeda Alia Samia](https://github.com/aliasyeda)
+
